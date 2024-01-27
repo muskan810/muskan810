@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 👋 I’m Muskan Quraishi
+- 👀 I’m interested in Web Development and Blockchain
+- ⚡ My primary coding language: Java
+- 🌱 I’m currently learning Java development
+- 🔭 Exploring new Technology like Blockchain
+- 📫 Mail: quraishimuskan786@gmail.com
 <!--
 **muskan810/muskan810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
